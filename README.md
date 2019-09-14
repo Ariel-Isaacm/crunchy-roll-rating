@@ -1,7 +1,7 @@
-# Crunchy Roll Dark Theme
-Tired of the gray/white background color of Crunchy Roll?
+# Crunchy Roll Rating
+Using https://omdbapi.com
 
-This Chrome extension will help you achieve your dreams of having a dark theme in your favorite Anime-Streaming Service.
+This Chrome extension will render the average imdb rating into the About div.
 
 ## How to use It.
 
@@ -14,10 +14,7 @@ This Chrome extension will help you achieve your dreams of having a dark theme i
 4. Go to the chapter you were watching and reload the page.
 
 5. Voila
-
-    ### From: 
-    ![alt text](https://user-images.githubusercontent.com/5545979/42799713-b1d68cb6-894d-11e8-9779-72dc73096a33.png)
     ### To:
-    ![alt text](https://user-images.githubusercontent.com/5545979/42799696-a2c30ad8-894d-11e8-9ad3-b8b1eda415e5.png)
+    ![alt text](https://user-images.githubusercontent.com/5545979/64913497-15598d00-d6f6-11e9-9ef2-73a62c98fe6a.png)
     
 6. Profit
