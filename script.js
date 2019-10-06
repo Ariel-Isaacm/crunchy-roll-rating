@@ -6,7 +6,7 @@ console.log("title:"+title);
 console.log("episode:"+episode);
 
 const request = new XMLHttpRequest();
-const url='https://www.omdbapi.com/?t='+title+'&'+episode.replace(' ','=')+'&apikey=PlzBanM3';
+const url='https://www.omdbapi.com/?t='+title+'&'+episode.replace(' ','=')+'&apikey=8632d16b';
 request.open("GET", url);
 
 request.send();
